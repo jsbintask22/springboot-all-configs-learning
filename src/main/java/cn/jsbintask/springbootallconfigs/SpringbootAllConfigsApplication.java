@@ -9,6 +9,10 @@ import org.springframework.boot.web.servlet.support.SpringBootServletInitializer
 import org.springframework.context.ConfigurableApplicationContext;
 import org.springframework.web.WebApplicationInitializer;
 
+/**
+ * @author jsbintask@gmail.com
+ * @date
+ */
 @SpringBootApplication
 @ServletComponentScan
 public class SpringbootAllConfigsApplication extends SpringBootServletInitializer implements WebApplicationInitializer {
